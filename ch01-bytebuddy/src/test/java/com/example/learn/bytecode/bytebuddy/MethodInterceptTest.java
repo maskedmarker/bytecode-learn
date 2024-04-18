@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class GenerateSubClassTest {
+public class MethodInterceptTest {
 
     @Test
     public void test0() throws IllegalAccessException, InstantiationException {
